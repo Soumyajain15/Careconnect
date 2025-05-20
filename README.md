@@ -14,7 +14,8 @@
 * 📱 Fully responsive UI
 * ⚡ Optimized with Next.js performance features
 
----
+---![Screenshot (84)](https://github.com/user-attachments/assets/9a638aa1-8d55-49eb-9c34-cbd6cb0cdc6e)
+
 
 ## 🛠 Tech Stack
 
@@ -26,6 +27,7 @@
 * **Deployment**: Vercel
 
 ---
+![Screenshot (83)](https://github.com/user-attachments/assets/a596abc7-699d-4b6c-8c98-e34688e116cb)
 
 ## 🚀 Getting Started
 
@@ -42,6 +44,7 @@ git clone https://github.com/Soumyajain15/Careconnect.git
 cd Careconnect
 npm install  # or yarn install
 ```
+![Screenshot (82)](https://github.com/user-attachments/assets/04f55565-bf31-4a65-b75d-fc9a8ef41731)
 
 ### Environment Variables
 
