@@ -92,6 +92,7 @@ Careconnect/
 ```
 
 ---
+![Screenshot (76)](https://github.com/user-attachments/assets/f21bd510-8196-4f77-9017-49ed4de7c728)
 
 ## 🌐 Live Demo
 
