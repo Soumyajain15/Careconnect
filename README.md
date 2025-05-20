@@ -3,6 +3,7 @@
 **Careconnect** is a modern **job portal application** built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It connects job seekers with employers through a sleek, responsive interface and offers tools for posting and applying to jobs.
 
 ---
+![Screenshot (81)](https://github.com/user-attachments/assets/475c9268-fe41-4270-a1f2-04f7007e197b)
 
 ## 🌟 Features
 
@@ -57,12 +58,14 @@ NEXTAUTH_URL=http://localhost:3000
 ```bash
 npm run dev  # or yarn dev
 ```
+![Screenshot (80)](https://github.com/user-attachments/assets/5e975017-81ab-4ff2-83d9-81c375689e15)
 
 Then visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
 ## 📁 Folder Structure
+![Screenshot (79)](https://github.com/user-attachments/assets/5d450e73-d817-4a7e-a0b0-1be29223fd06)
 
 ```plaintext
 Careconnect/
@@ -84,7 +87,8 @@ Careconnect/
 
 ## 📦 Scripts
 
-```json
+```json![Screenshot (78)](https://github.com/user-attachments/assets/a7a20400-98e1-4f27-8ce1-438401fa987a)
+
 "dev": "next dev",
 "build": "next build",
 "start": "next start",
