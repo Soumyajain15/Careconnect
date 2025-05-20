@@ -1,7 +1,3 @@
-Thanks! Since **Next.js** is used in the project instead of plain React, I'll update the `README.md` accordingly to reflect the correct tech stack, project structure, and relevant instructions. Here's the revised version:
-
----
-
 # Careconnect
 
 **Careconnect** is a modern **job portal application** built with **Next.js**, **TypeScript**, and **Tailwind CSS**. It connects job seekers with employers through a sleek, responsive interface and offers tools for posting and applying to jobs.
